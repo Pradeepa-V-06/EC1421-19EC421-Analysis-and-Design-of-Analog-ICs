@@ -24,14 +24,17 @@ LT-Spice
 
 ### LOWPASS FILTER CIRCUIT DIAGRAM:
 <img width="1065" height="596" alt="image" src="https://github.com/user-attachments/assets/ce362d49-0f5e-44fc-a06e-2e8506ba99ea" />
+<img width="1181" height="790" alt="image" src="https://github.com/user-attachments/assets/b091b154-d2b9-4bd1-b57e-da06ae408099" />
 
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
 <img width="1671" height="920" alt="image" src="https://github.com/user-attachments/assets/755ac389-0ea1-43fb-a3c6-99568268c27a" />
+<img width="1029" height="684" alt="image" src="https://github.com/user-attachments/assets/77002533-c6fe-42c6-8260-56efd5a991b5" />
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
 <img width="1258" height="607" alt="image" src="https://github.com/user-attachments/assets/9b61628f-f95f-45b8-a905-116fefeaea6f" />
+<img width="1462" height="874" alt="image" src="https://github.com/user-attachments/assets/d7b4c81c-f118-45e4-9081-f63ef052307b" />
 
 ## OUTPUT GRAPH:
 
